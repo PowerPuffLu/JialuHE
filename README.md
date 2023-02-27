@@ -1,5 +1,4 @@
-# JialuHE
-Jialu He's Projects Backup
+
 Project overview: It has often been observed that energy consumption tends to be at its highest on days with
 hotter temperatures. As a data scientist, you have been tasked with developing models that
 predicts the maximum daily energy use and pricing based on weather data. The hope is that
